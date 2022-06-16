@@ -1,5 +1,6 @@
 In postman :
 
+POST Method
 
 localhost:3000/operation
 
